@@ -94,23 +94,29 @@ Data describe
 
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/003.jpeg)
 
+
 Checking and cleaning of null values
 
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/004.jpeg)
+
 
 Data types
 
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/005.jpeg)
 
+
 Scatterplot
 
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/006.jpeg)
+
 
 Barplot
 
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/007.jpeg)
 
+
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/008.jpeg)
+
 
 ![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/009.jpeg)
 
