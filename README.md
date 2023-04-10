@@ -96,18 +96,36 @@ Data describe
 
 Checking and cleaning of null values
 
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/004.jpeg)
+
 Data types
+
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/005.jpeg)
 
 Scatterplot
 
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/006.jpeg)
+
 Barplot
+
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/007.jpeg)
+
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/008.jpeg)
+
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/009.jpeg)
 
 
 
 
 Correlation coefficient interpretation
 
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/010.jpeg)
+
+
+
 Heatmap
+
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/011.jpeg)
 
 
 # Result:
