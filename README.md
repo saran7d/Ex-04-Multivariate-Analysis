@@ -88,6 +88,8 @@ Dataset
 
 Dataset information
 
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/002.jpeg)
+
 Data describe
 
 Checking and cleaning of null values
