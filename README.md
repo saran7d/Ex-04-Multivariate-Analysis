@@ -84,6 +84,8 @@ sns.heatmap(df.corr(),annot=True)
 
 Dataset
 
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/001.jpeg)
+
 Dataset information
 
 Data describe
