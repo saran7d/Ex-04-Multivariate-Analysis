@@ -92,6 +92,8 @@ Dataset information
 
 Data describe
 
+![](https://github.com/saran7d/Ex-04-Multivariate-Analysis/blob/main/003.jpeg)
+
 Checking and cleaning of null values
 
 Data types
