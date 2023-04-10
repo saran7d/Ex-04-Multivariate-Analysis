@@ -26,7 +26,9 @@ STEP 8 Save the final data set into the file.
 # Program:
 
 Developed by: Saran S S
+
 Reg no: 212221220048
+```
 
 import pandas as pd
 import numpy as np
@@ -75,6 +77,8 @@ plt.show()
 df.corr()
 
 sns.heatmap(df.corr(),annot=True)
+
+```
 
 # Output
 
