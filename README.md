@@ -2,7 +2,7 @@
 
 DATE:
 
-GITHUB LINK:
+GITHUB LINK: https://github.com/saran7d/Ex-04-Multivariate-Analysis.git
 
 COLAB LINK:  https://colab.research.google.com/drive/1SB8_VauNwIqAvL2_e8o9hJSrKyDiv6Gg?usp=sharing
 
